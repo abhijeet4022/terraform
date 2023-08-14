@@ -1,5 +1,4 @@
-#access_key    = "AKIAQIADLSDCARA5XXVZ"
-#secret_key    = "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"
+
 
 region        = "ap-south-1"
 AZ-A          = "ap-south-1a"
